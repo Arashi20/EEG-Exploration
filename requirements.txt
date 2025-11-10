@@ -1,0 +1,13 @@
+mne
+numpy
+scipy
+pandas
+scikit-learn
+matplotlib
+seaborn
+jupyterlab
+joblib
+tqdm
+# Optional: for later probabilistic work
+pymc3
+arviz
