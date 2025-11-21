@@ -1,4 +1,4 @@
-# EEG Exploration + + Probabilistic Modeling
+# EEG Exploration + Probabilistic Modeling
 
 ## Goal
 - A research-style exploration of open EEG data using Python (MNE).
